@@ -1,1 +1,3 @@
 # PowerBi-Churned-Customer-Analysis
+
+Report Link : https://app.powerbi.com/view?r=eyJrIjoiOWRjNzBjNzYtYTY0YS00YmQyLTgyZDUtNWM5YzQ0NmE3NTk5IiwidCI6ImM0MTlhMWI2LTEyMmEtNGM5MS1hYTE1LWI5NTc3ODRiZDNkNCIsImMiOjN9
